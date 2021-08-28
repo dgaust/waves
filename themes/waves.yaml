@@ -104,7 +104,7 @@ waves-dark:
   weather-icon-windy-variant: url("/hacsfiles/themes/waves/windy-variant.svg")
   weather-icon-exceptional: url("/hacsfiles/themes/waves/exceptional.svg")
   # Shadown
-  ha-card-box-shadow: '0px 0px 3px 0px #0d141c'
+  ha-card-box-shadow: 'inset 0px 0px 0px 0px var(--divider-color)'
   # HACS
   hacs-badge-color: var(--primary-color)
   link-text-color: var(--disabled-color)
